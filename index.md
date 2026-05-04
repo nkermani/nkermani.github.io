@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nathan Kermani Portfolio
+---
+
 # Nathan Kermani
 
 > **Machine Learning Engineer**  
