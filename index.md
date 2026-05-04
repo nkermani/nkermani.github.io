@@ -3,8 +3,6 @@ layout: default
 title: Nathan Kermani Portfolio
 ---
 
-# Nathan Kermani
-
 > **Machine Learning Engineer**  
 > Focus: Computer Vision / AI Systems / Model Optimization  
 > Status: Seeking 2026 Internship Opportunities  
